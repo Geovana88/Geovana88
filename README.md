@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 👋💙💙
+                                                                                                             
+   meu nome é Geovana                                                                                                           
 
-<!--
-**Geovana88/Geovana88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   estou estudando no alura
+-  Estou estudando na alura 
+- utilizo esse espaço para minha organizaçao e compatilhamento dos meu projetos desenvolvidos 
 
-Here are some ideas to get you started:
+### voce entra em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  gigi2022e13@gmail.com
+  
+ @geovana.liver   
